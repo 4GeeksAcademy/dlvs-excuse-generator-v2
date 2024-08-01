@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+p {
+  font-size: 200%;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 2%;
+}
