@@ -9,7 +9,7 @@ window.onload = function() {
   //inner;
   //write your code here
   let who = ["The dog", "My grandma", "The mailman", "My bird"];
-  let action = ["ate", "peed", "crushed", "broke"];
+  let action = ["ate", "peed on", "crushed", "broke"];
   let what = ["my homework", "my phone", "the car"];
   let when = [
     "before the class",
